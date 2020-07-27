@@ -1,0 +1,6 @@
+[submodule "T5-paraphraser"]
+	path = T5-paraphraser
+	url = https://github.com/sak-18/T5-paraphraser.git
+[submodule "scene-graph-generator"]
+	path = scene-graph-generator
+	url = https://github.com/sak-18/scene-graph-generator.git
